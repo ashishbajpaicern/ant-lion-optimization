@@ -1,7 +1,7 @@
 import random
 
 # Define the search space for the optimization problem
-lower_bound = 8
+lower_bound = 5
 upper_bound = 10
 
 # Define the rules or conditions for the optimization problem
